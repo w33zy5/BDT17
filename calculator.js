@@ -11,16 +11,16 @@ var calculator = {
 	},
 	bagi : function(a,b){
 		return a/b;
-	}
+	},
 	samadengan : function(a,b){
 	//jika lebih besar a
 		if(a>b){
 			return a + ' lebih besar dari ' + b;
 		}
-		elseif(b<a){
+		else if(b<a){
 			return b + ' lebih besar dari ' + a;
 		}
-		elseif(a==b){
+		else if(a==b){
 			return a + ' sama dengan ' + b;
 		}
 	}
