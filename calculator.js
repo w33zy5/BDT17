@@ -17,10 +17,10 @@ var calculator = {
 		if(a>b){
 			return a + ' lebih besar dari ' + b;
 		}
-		else if(b<a){
+		elseif(b<a){
 			return b + ' lebih besar dari ' + a;
 		}
-		else if(a==b){
+		elseif(a==b){
 			return a + ' sama dengan ' + b;
 		}
 	}
