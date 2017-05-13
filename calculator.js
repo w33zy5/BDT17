@@ -10,7 +10,7 @@ var calculator = {
 		if(a>b){
 			return a + 'lebih besar dari ' + b;
 		}
-		elseif(b<a){
+		else if(b<a){
 			return b + 'lebih besar dari ' + a;
 		}
 		else{
