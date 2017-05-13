@@ -1,0 +1,4 @@
+git status : untuk cek status perubahan pada index/web nya
+git add . : untuk menambahkan
+git commit - : menambahkan status perubahan
+git checkout : mengganti branch
