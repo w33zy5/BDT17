@@ -6,7 +6,7 @@ cats.forEach(
 );
 	
 var dogs = {
-	count = 1,
+	count : 1,
 	dogName : '',
 	bark : function(){
 		return 'guk';
